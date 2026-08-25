@@ -1,0 +1,22 @@
+# Compiled class file & Build output
+target/
+*.class
+
+# Log files
+*.log
+
+# IntelliJ IDEA & Eclipse / IDE files
+.idea/
+*.iml
+*.iws
+*.ipr
+.project
+.classpath
+.settings/
+bin/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+database/
