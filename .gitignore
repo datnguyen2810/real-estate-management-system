@@ -1,11 +1,13 @@
 # Compiled class file & Build output
 target/
 *.class
+*.jar
+*.war
 
 # Log files
 *.log
 
-# IntelliJ IDEA & Eclipse / IDE files
+# IntelliJ IDEA, Eclipse, VS Code
 .idea/
 *.iml
 *.iws
@@ -14,9 +16,8 @@ target/
 .classpath
 .settings/
 bin/
+.vscode/
 
 # OS generated files
 .DS_Store
 Thumbs.db
-
-database/
